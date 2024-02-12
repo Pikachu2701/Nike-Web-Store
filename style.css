@@ -250,20 +250,22 @@ button:after {
         background-color: white;
     }
     .aside2 img {
-       width: 100%;
+       width: 80%;
        
-       padding-top: 0;
-       margin-top: 3rem;
+       padding: 0;
+       margin-top: 0;
     }
     .gridItem_content {
         line-height: 1;
-        margin-top: 3rem;
+        
     }
    
     .headerMain-menu-nav {
         display: none;
     }    
-        
+    .gridItem_text {
+        padding-bottom: .7rem;
+    }
       
        
         
