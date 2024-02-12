@@ -248,15 +248,23 @@ button:after {
         grid-row: 2 / -1;
         grid-column: 1 / -1;
         background-color: white;
-        
-        
-      
     }
     .aside2 img {
        width: 100%;
        
        padding-top: 0;
-       margin-top: 5rem;
+       margin-top: 3rem;
+    }
+    .gridItem_content {
+        line-height: 1;
+        margin-top: 3rem;
+    }
+   
+    .headerMain-menu-nav {
+        display: none;
+    }    
+        
+      
        
         
         
@@ -265,10 +273,4 @@ button:after {
         
     
     
-    }
-    .gridItem_content {
-        line-height: 1;
-        margin-top: 3rem;
-    }
-   
 } 
